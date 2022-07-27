@@ -1,0 +1,32 @@
+.head-bg{
+  background-color: 
+  #FFF9F4;
+}
+.nike{
+  font-size: 50px;
+  color: 
+  #FA804C;
+}
+.inifinity{
+  font-size: 50px;
+  color: 
+  #363958;
+}
+@media only screen and (max-width: 566px){
+  .article-item{
+  display: flex;
+  flex-direction: column-reverse;
+
+ }
+
+ /* .article-item{
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+} */
+
+/* .last-img{
+   height: 500px;
+  width: 500px;
+} */
+
+}
